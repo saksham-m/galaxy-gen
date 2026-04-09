@@ -2,6 +2,8 @@
 
 Inspired by the Artemis II mission. A generative art tool that renders spiral galaxies, galactic collisions, and animated GIFs — using only the Go standard library.
 
+This is for learning the new agentic engineering paradigms. Strictly for fun!
+
 ![collision example](collision.gif)
 
 ---
